@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* this needed to be changed to semantic HTML */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -15,6 +16,7 @@ header {
     color: #ffffff;
 }
 
+/* this need to be changed because semantic HTML changed */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -188,13 +190,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
